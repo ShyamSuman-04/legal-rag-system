@@ -1,0 +1,6 @@
+Metric,Score (%)
+Reference Retrieval Accuracy,54.42
+Faithfulness,67.35
+Overall Reliability,46.94
+Hallucination Rate,32.65
+Citation Error Rate,45.58
